@@ -1,0 +1,35 @@
+# Visual Studio 临时文件与目录
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# CMake 构建产物（这是最重要的，防止提交你的 out/ 文件夹）
+out/
+build/
+build-*/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+compile_commands.json
+
+# 可执行程序与二进制库
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+*.exp
+
+# 操作系统自动生成文件
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# 其他临时文件
+*.log
+*.tmp
