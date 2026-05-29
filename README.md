@@ -1,4 +1,4 @@
-# ComplexVisualizer 2026 - Runtime Compiler Engine
+# 复变函数可视化计算器
 
 一个基于 C++、OpenGL (GLSL) 与 Dear ImGui 构建的高性能、实时交互式**复变函数可视化引擎**。
 
